@@ -24,6 +24,6 @@ public class SCENE : MonoBehaviour
     void Start()
     {
         _ref_ = this;
-        C.start(STIMULATE());
+        C.start(/*  */);
     }
 }
